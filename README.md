@@ -28,6 +28,7 @@ ________________________________________________________________________________
 Sequence for starting microservcies
 
 config-server -> eureka-server ->auth-server ->registration-server
+* also please initalize  config-server/resources/shared as a git reposiotory
 _________________________________________________________________________________________________________
 
 Generating access token from auth server
