@@ -36,4 +36,8 @@ public class UserDataServiceImpl implements UserDataService {
 		  userRepo.deleteById(id);
 	}
 
+	public void(String emailAddress){
+		
+	}
+
 }
