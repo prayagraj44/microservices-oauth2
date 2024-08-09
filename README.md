@@ -1,4 +1,4 @@
-# microservices-app_scoop
+# microservice
 
 
 This project has following services as a part microservice architecture
